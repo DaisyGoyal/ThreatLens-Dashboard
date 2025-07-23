@@ -57,3 +57,4 @@ GEMINI_API_KEY=AIzaSyCPmYfYxmosSbBTym3ENKj8ohZyapy9AhQ
 
 4. Run the app
 streamlit run app.py
+http://localhost:8501/
